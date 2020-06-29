@@ -10,6 +10,7 @@ Navigate to the directory, and run `go test`
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
+|[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 
 ## Links
