@@ -7,6 +7,7 @@ Navigate to the directory, and run `go test`
 ## Solutions
 |Problem|Title|Difficulty|Liked|
 |-------------|--------------------------|------------- |------------- |
+|[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
