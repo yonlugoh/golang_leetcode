@@ -7,6 +7,7 @@ Navigate to the directory, and run `go test`
 ## Solutions
 |Problem|Title|Difficulty|Liked|
 |-------------|--------------------------|------------- |------------- |
+|[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game 2|Hard||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
