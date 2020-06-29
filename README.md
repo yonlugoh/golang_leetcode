@@ -8,6 +8,7 @@ Navigate to the directory, and run `go test`
 |Problem|Title|Difficulty|Liked|
 |-------------|--------------------------|------------- |------------- |
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
+|[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium|❤|
