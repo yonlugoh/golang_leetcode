@@ -1,4 +1,4 @@
-# golang_leetcode
+# Golang Leetcode Solutions
 A repository to track my leetcode solutions in Go, as good practice to learn algorithms and data structures in Golang.
 
 ## Links
