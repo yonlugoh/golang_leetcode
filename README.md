@@ -11,6 +11,7 @@ Navigate to the directory, and run `go test`
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
+|[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard||
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
