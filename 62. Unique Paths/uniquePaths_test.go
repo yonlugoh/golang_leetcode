@@ -4,17 +4,20 @@ import "testing"
 
 func TestUniquePaths(t *testing.T) {
 	m := []int{
+		1,
 		3,
 		7,
 		20,
 	}
 	n := []int{
+		1,
 		2,
 		3,
 		11,
 	}
 
 	results := []int{
+		1,
 		3,
 		28,
 		20030010,
