@@ -7,7 +7,7 @@ A repository to track my leetcode solutions in Go, as good practice to learn alg
 [2. My Leetcode Profile](https://leetcode.com/yonlugoh/)
 
 ## Run tests
-Navigate to the question directory, and run `go test`
+Navigate to the directory, and run `go test`
 
 ## Solutions
 |Problem|Title|Difficulty|Liked|
