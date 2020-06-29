@@ -14,6 +14,7 @@ Navigate to the directory, and run `go test`
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium|❤|
+|[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|Hard|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
