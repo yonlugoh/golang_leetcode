@@ -3,6 +3,7 @@ A repository to track my leetcode solutions in Go, as good practice to learn alg
 
 ## Run tests
 Each directory should contain a test file named `*_test.go`. To run the tests, navigate to the directory, and run the cmd `go test`
+
 Feel free to contribute to additional tests to increase coverage.
 
 ## Solutions
@@ -12,6 +13,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
+|[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal|Medium||
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard|❤|
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[200](https://leetcode.com/problems/number-of-islands/)| Number of Islands|Medium|❤|
