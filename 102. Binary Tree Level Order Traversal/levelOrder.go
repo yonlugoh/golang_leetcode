@@ -10,11 +10,11 @@ type TreeNode struct {
 }
 
 func levelOrder(root *TreeNode) [][]int {
-
-	if root == nil {
-		return [][]int{}
-	}
 	res := [][]int{}
+	if root == nil {
+		return res
+	}
+
 	level := []*TreeNode{root}
 
 	for root != nil && len(level) > 0 {
