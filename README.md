@@ -30,6 +30,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
+|[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 
 ## Links
