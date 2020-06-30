@@ -11,9 +11,10 @@ Navigate to the directory, and run `go test`
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
-|[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard||
+|[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard|❤|
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium|❤|
+|[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium|❤|
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|Hard|❤|

@@ -12,10 +12,12 @@ func longestConsecutive(nums []int) int {
 	best := 1
 	for _, x := range nums {
 		_, found := set[x-1]
+		// if x-1 is not found, this means we can start from x and increment, to see if it forms the longest streak
 		if !found {
 			streak := 1
 			y := x + 1
 			_, found = set[y]
+			// keep incrementing to extend streak
 			for found {
 				streak++
 				y++
