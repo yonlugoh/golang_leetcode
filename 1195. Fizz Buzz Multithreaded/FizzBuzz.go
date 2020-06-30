@@ -15,7 +15,7 @@ func fizz(n int, wg *sync.WaitGroup) {
 	for curr <= n {
 		if curr%3 == 0 && curr%5 != 0 {
 			mutex.Lock()
-			fmt.Print("fizz ")
+			fmt.Print("fizz,")
 			curr++
 			mutex.Unlock()
 		}
@@ -27,7 +27,7 @@ func buzz(n int, wg *sync.WaitGroup) {
 	for curr <= n {
 		if curr%3 != 0 && curr%5 == 0 {
 			mutex.Lock()
-			fmt.Print("buzz ")
+			fmt.Print("buzz,")
 			curr++
 			mutex.Unlock()
 		}
@@ -39,7 +39,7 @@ func fizzbuzz(n int, wg *sync.WaitGroup) {
 	for curr <= n {
 		if curr%3 == 0 && curr%5 == 0 {
 			mutex.Lock()
-			fmt.Print("fizzbuzz ")
+			fmt.Print("fizzbuzz,")
 			curr++
 			mutex.Unlock()
 		}
@@ -52,7 +52,7 @@ func number(n int, wg *sync.WaitGroup) {
 	for curr <= n {
 		if curr%3 != 0 && curr%5 != 0 {
 			mutex.Lock()
-			fmt.Print(curr, " ")
+			fmt.Print(curr, ",")
 			curr++
 			mutex.Unlock()
 		}
