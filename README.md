@@ -31,7 +31,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
-|[1118](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
+|[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 
 ## Links
