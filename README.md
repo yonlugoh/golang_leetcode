@@ -32,6 +32,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
 |[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
+|[1195](https://leetcode.com/problems/fizz-buzz-multithreaded/)| Fizz Buzz Multithreaded|Medium|❤|
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 
 ## Links
