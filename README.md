@@ -2,7 +2,7 @@
 A repository to track my leetcode solutions in Go, as good practice to learn algorithms and data structures in Golang.
 
 ## Run tests
-Navigate to the directory, and run the cmd `go test`
+Each directory should contain a test file named `*_test.go`. To run the tests, navigate to the directory, and run the cmd `go test`
 Feel free to contribute to additional tests to increase coverage.
 
 ## Solutions
