@@ -20,6 +20,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium||
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|Hard|❤|
+|[695](https://leetcode.com/problems/max-area-of-island/)| Max Area of Island|Medium|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
