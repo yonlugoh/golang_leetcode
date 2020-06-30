@@ -13,10 +13,11 @@ Navigate to the directory, and run `go test`
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard|❤|
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
-|[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium|❤|
+|[200](https://leetcode.com/problems/number-of-islands/)| Number of Islands|Medium|❤|
+|[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium||
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
-|[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium|❤|
-|[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium|❤|
+|[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
+|[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium||
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|Hard|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
