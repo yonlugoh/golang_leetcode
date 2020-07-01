@@ -23,8 +23,7 @@ func closedIsland(grid [][]int) int {
 			_, ok := visited[Tuple{row, col}]
 			if grid[row][col] == 0 && !ok {
 
-				is_closed := dfs(grid, height, width, row, col)
-				if is_closed {
+				if dfs(grid, height, width, row, col) {
 					res++
 				}
 
@@ -51,6 +50,10 @@ func dfs(grid [][]int, height int, width int, row int, col int) bool {
 	}
 	visited[Tuple{Row: row, Col: col}] = 1
 
-	return dfs(grid, height, width, row-1, col) && dfs(grid, height, width, row+1, col) && dfs(grid, height, width, row, col+1) && dfs(grid, height, width, row, col-1)
+	top := dfs(grid, height, width, row-1, col)
+	bottom := dfs(grid, height, width, row+1, col)
+	right := dfs(grid, height, width, row, col+1)
+	left := dfs(grid, height, width, row, col-1)
+	return top && bottom && right && left
 
 }
