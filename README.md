@@ -14,6 +14,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
+|[77](https://leetcode.com/problems/combinations/)| Combinations|Medium||
 |[78](https://leetcode.com/problems/subsets/)| Subsets|Medium||
 |[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal|Medium||
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Binary Tree Zigzag Level Order Traversal|Medium||
