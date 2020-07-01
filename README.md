@@ -9,6 +9,7 @@ Feel free to contribute to additional tests to increase coverage.
 ## Solutions
 |Problem|Title|Difficulty|Liked|
 |-------------|--------------------------|------------- |------------- |
+|[15](https://leetcode.com/problems/3sum/)| 3Sum|Medium|❤|
 |[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game 2|Hard|❤|
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
