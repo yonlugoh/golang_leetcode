@@ -11,6 +11,7 @@ func TestCanArrange(t *testing.T) {
 		[]int{-10, 10},
 		[]int{-1, 1, -2, 2, -3, 3, -4, 4},
 		[]int{1, 2, 3, 4, 12, 13, 22, 23, 11, 21},
+		[]int{2, 2, 2, 2, 2, 2},
 	}
 	targets := []int{
 		5,
@@ -19,6 +20,7 @@ func TestCanArrange(t *testing.T) {
 		2,
 		3,
 		5,
+		3,
 	}
 
 	results := []bool{
@@ -27,6 +29,7 @@ func TestCanArrange(t *testing.T) {
 		false,
 		true,
 		true,
+		false,
 		false,
 	}
 
