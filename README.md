@@ -16,6 +16,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
 |[77](https://leetcode.com/problems/combinations/)| Combinations|Medium||
 |[78](https://leetcode.com/problems/subsets/)| Subsets|Medium||
+|[79](https://leetcode.com/problems/word-search/)| Word Search|Medium|❤|
 |[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal|Medium||
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Binary Tree Zigzag Level Order Traversal|Medium||
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| Binary Tree Level Order Traversal II|Easy||
