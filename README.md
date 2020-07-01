@@ -26,6 +26,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[200](https://leetcode.com/problems/number-of-islands/)| Number of Islands|Medium|❤|
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium||
+|[212](https://leetcode.com/problems/word-search-ii/)| Word Search II|Hard||
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium||
