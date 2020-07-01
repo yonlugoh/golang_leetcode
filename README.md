@@ -31,11 +31,13 @@ Feel free to contribute to additional tests to increase coverage.
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
+|[962](https://leetcode.com/problems/maximum-width-ramp/)| Maximum Width Ramp|Medium||
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
 |[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
 |[1195](https://leetcode.com/problems/fizz-buzz-multithreaded/)| Fizz Buzz Multithreaded|Medium|❤|
 |[1254](https://leetcode.com/problems/number-of-closed-islands/)| Number of Closed Islands|Medium||
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
+|[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)| Check If Array Pairs Are Divisible by k|Medium|❤|
 
 ## Links
 [1. Explore Leetcode Questions](https://leetcode.com/problemset/all/)
