@@ -34,6 +34,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
 |[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
 |[1195](https://leetcode.com/problems/fizz-buzz-multithreaded/)| Fizz Buzz Multithreaded|Medium|❤|
+|[1254](https://leetcode.com/problems/number-of-closed-islands/)| Number of Closed Islands|Medium||
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 
 ## Links
