@@ -32,6 +32,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
 |[962](https://leetcode.com/problems/maximum-width-ramp/)| Maximum Width Ramp|Medium||
+|[1094](https://leetcode.com/problems/car-pooling/)| Car Pooling|Medium||
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|Medium|❤|
 |[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|Medium||
 |[1195](https://leetcode.com/problems/fizz-buzz-multithreaded/)| Fizz Buzz Multithreaded|Medium|❤|
