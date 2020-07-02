@@ -34,6 +34,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K|Medium||
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|Easy||
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|Hard|❤|
+|[654](https://leetcode.com/problems/maximum-binary-tree/)| Maximum Binary Tree|Medium||
 |[695](https://leetcode.com/problems/max-area-of-island/)| Max Area of Island|Medium|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
