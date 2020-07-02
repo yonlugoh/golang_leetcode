@@ -28,6 +28,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium||
 |[212](https://leetcode.com/problems/word-search-ii/)| Word Search II|Hard||
 |[213](https://leetcode.com/problems/house-robber-ii/)| House Robber II|Medium||
+|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| Kth Smallest Element in a BST|Medium||
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|Easy||
