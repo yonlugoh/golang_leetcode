@@ -23,6 +23,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Best Time to Buy and Sell Stock|Easy||
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Best Time to Buy and Sell Stock II|Easy||
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|Hard|❤|
+|[144](https://leetcode.com/problems/binary-tree-preorder-traversal/)| Binary Tree Preorder Traversal|Medium||
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
 |[200](https://leetcode.com/problems/number-of-islands/)| Number of Islands|Medium|❤|
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium||
