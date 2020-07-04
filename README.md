@@ -34,6 +34,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|Easy||
+|[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Minimum Number of Arrows to Burst Balloons|Medium|❤|
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium||
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K|Medium||
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|Easy||
