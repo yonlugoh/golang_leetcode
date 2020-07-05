@@ -26,6 +26,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[130](https://leetcode.com/problems/surrounded-regions/)| Surrounded Regions|Medium|❤|
 |[144](https://leetcode.com/problems/binary-tree-preorder-traversal/)| Binary Tree Preorder Traversal|Medium||
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray|Medium||
+|[198](https://leetcode.com/problems/house-robber/)| House Robber|Easy||
 |[200](https://leetcode.com/problems/number-of-islands/)| Number of Islands|Medium|❤|
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|Medium||
 |[212](https://leetcode.com/problems/word-search-ii/)| Word Search II|Hard||
