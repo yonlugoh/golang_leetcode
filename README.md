@@ -44,6 +44,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[695](https://leetcode.com/problems/max-area-of-island/)| Max Area of Island|Medium|❤|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|Easy||
 |[739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures|Medium|❤|
+|[740](https://leetcode.com/problems/delete-and-earn/)| Delete and Earn|Medium|❤|
 |[784](https://leetcode.com/problems/letter-case-permutation/)| Letter Case Permutation|Easy||
 |[795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)| Number of Subarrays with Bounded Maximum|Medium||
 |[962](https://leetcode.com/problems/maximum-width-ramp/)| Maximum Width Ramp|Medium||
