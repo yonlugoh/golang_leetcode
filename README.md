@@ -36,6 +36,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|Hard|❤|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|Medium||
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|Easy||
+|[413](https://leetcode.com/problems/arithmetic-slices/)| Arithmetic Slices|Medium||
 |[450](https://leetcode.com/problems/delete-node-in-a-bst/)| Delete Node in a BST|Medium||
 |[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Minimum Number of Arrows to Burst Balloons|Medium|❤|
 |[456](https://leetcode.com/problems/132-pattern/)| 132 Pattern|Medium||
