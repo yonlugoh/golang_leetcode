@@ -38,6 +38,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|Easy||
 |[450](https://leetcode.com/problems/delete-node-in-a-bst/)| Delete Node in a BST|Medium||
 |[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Minimum Number of Arrows to Burst Balloons|Medium|❤|
+|[456](https://leetcode.com/problems/132-pattern/)| 132 Pattern|Medium||
 |[518](https://leetcode.com/problems/coin-change-2/)| Coin Change 2|Medium||
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K|Medium||
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|Easy||
