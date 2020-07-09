@@ -58,6 +58,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[1195](https://leetcode.com/problems/fizz-buzz-multithreaded/)| Fizz Buzz Multithreaded|Medium|❤|
 |[1254](https://leetcode.com/problems/number-of-closed-islands/)| Number of Closed Islands|Medium||
 |[1323](https://leetcode.com/problems/maximum-69-number/)| Maximum 69 Number|Easy||
+|[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|Medium||
 |[1496](https://leetcode.com/problems/path-crossing/)| Path Crossing|Easy||
 |[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)| Check If Array Pairs Are Divisible by k|Medium|❤|
 
