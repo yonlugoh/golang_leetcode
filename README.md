@@ -19,6 +19,7 @@ Feel free to contribute to additional tests to increase coverage.
 |[78](https://leetcode.com/problems/subsets/)| Subsets|Medium||
 |[79](https://leetcode.com/problems/word-search/)| Word Search|Medium|❤|
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal|Medium||
+|[100](https://leetcode.com/problems/same-tree/)| Same Tree|Easy||
 |[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal|Medium||
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Binary Tree Zigzag Level Order Traversal|Medium||
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| Binary Tree Level Order Traversal II|Easy||
