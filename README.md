@@ -11,6 +11,7 @@ Feel free to contribute to additional tests to increase coverage.
 |-------------|--------------------------|------------- |------------- |
 |[15](https://leetcode.com/problems/3sum/)| 3Sum|Medium|❤|
 |[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game 2|Hard|❤|
+|[49](https://leetcode.com/problems/group-anagrams/)| Group Anagrams (**TODO: Test file**)|Medium||
 |[55](https://leetcode.com/problems/jump-game)| Jump Game|Medium||
 |[56](https://leetcode.com/problems/merge-intervals/)| Merge Intervals|Medium||
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|Medium||
