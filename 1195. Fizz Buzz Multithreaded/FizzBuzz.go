@@ -1,6 +1,7 @@
 package main
 
-// https://play.golang.org/p/22RA8BcVIYs
+// https://play.golang.org/p/7nuF5TZEiWM
+
 import (
 	"fmt"
 	"sync"
@@ -12,55 +13,72 @@ var (
 )
 
 func fizz(n int, wg *sync.WaitGroup) {
-	for curr <= n {
+	defer wg.Done()
+	for {
+		mutex.Lock()
+		if curr > n {
+			mutex.Unlock()
+			return
+		}
 		if curr%3 == 0 && curr%5 != 0 {
-			mutex.Lock()
 			fmt.Print("fizz,")
 			curr++
-			mutex.Unlock()
 		}
+		mutex.Unlock()
 	}
-	wg.Done()
+
 }
 
 func buzz(n int, wg *sync.WaitGroup) {
-	for curr <= n {
+	defer wg.Done()
+	for {
+		mutex.Lock()
+		if curr > n {
+			mutex.Unlock()
+			return
+		}
 		if curr%3 != 0 && curr%5 == 0 {
-			mutex.Lock()
 			fmt.Print("buzz,")
 			curr++
-			mutex.Unlock()
 		}
+		mutex.Unlock()
 	}
-	wg.Done()
 
 }
+
 func fizzbuzz(n int, wg *sync.WaitGroup) {
-	for curr <= n {
+	defer wg.Done()
+	for {
+		mutex.Lock()
+		if curr > n {
+			mutex.Unlock()
+			return
+		}
 		if curr%3 == 0 && curr%5 == 0 {
-			mutex.Lock()
 			fmt.Print("fizzbuzz,")
 			curr++
-			mutex.Unlock()
 		}
+		mutex.Unlock()
 	}
-	wg.Done()
 
 }
 
 func number(n int, wg *sync.WaitGroup) {
-	for curr <= n {
+	defer wg.Done()
+	for {
+		mutex.Lock()
+		if curr > n {
+			mutex.Unlock()
+			return
+		}
 		if curr%3 != 0 && curr%5 != 0 {
-			mutex.Lock()
 			fmt.Print(curr, ",")
 			curr++
-			mutex.Unlock()
 		}
+		mutex.Unlock()
 	}
-	wg.Done()
 
 }
-
 func FizzBuzzMultithreaded(n int) {
 	curr = 1
 	var wg sync.WaitGroup
